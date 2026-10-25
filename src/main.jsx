@@ -2254,7 +2254,7 @@ function App() {
           </a>
 
           <a
-            href="https://github.com/Colinpradeep"
+            href="https://github.com/ColinPradeep/"
             target="_blank"
             rel="noreferrer"
           >
